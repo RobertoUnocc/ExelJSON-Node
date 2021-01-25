@@ -1,0 +1,14 @@
+{
+  "name": "exel-a-json",
+  "version": "1.0.0",
+  "description": "Leer exel a Json para consumirlo con mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carloss",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
